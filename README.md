@@ -57,12 +57,12 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/elbeg-amar" target="_blank">
+<a href="https://www.linkedin.com/in/bilguun-tuvshin-8b24112a0/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:elbeg@nestsolutions.llc" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/amar9elbeg" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
+<a href="drbilguunt@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/ultim4te4life" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
 -----
-Credits: [Elbeg Amarbayasgalan](https://github.com/amar9elbeg)
+Credits: [Bilguun Tuvhsin](https://github.com/ultim4te4life)
